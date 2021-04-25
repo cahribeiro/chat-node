@@ -4,21 +4,12 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/EliasGcf/readme-template">
 
-  <a href="https://www.linkedin.com/in/eliasgcf/">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Elias%20Gabriel-gree">
+  <a href="https://www.linkedin.com/in/ana-carolina-ribeiro-santos/">
+    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Carolina%20Ribeiro-blue">
   </a>
   
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/EliasGcf/readme-template">
-  
-  <a href="https://github.com/EliasGcf/readme-template/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliasGcf/readme-template">
-  </a>
-  
-  <a href="https://github.com/EliasGcf/readme-template/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/EliasGcf/readme-template">
-  </a>
   
   <img alt="GitHub" src="https://img.shields.io/badge/license-MIT-green">
 </p>
