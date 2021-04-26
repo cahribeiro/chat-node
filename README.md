@@ -9,7 +9,7 @@
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-Carolina%20Ribeiro-blue">
   </a>
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EliasGcf/readme-template">
+  <img alt="Repository size" src="https://img.shields.io/badge/repo%20size-98%20kB-blue">
   
   <img alt="GitHub" src="https://img.shields.io/badge/license-MIT-green">
 </p>
